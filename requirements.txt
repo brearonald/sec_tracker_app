@@ -1,7 +1,7 @@
-streamlit
-yfinance
-pytz
-pandas
-requests
-beautifulsoup4
-playsound
+streamlit==1.15.0
+yfinance==0.1.70
+pytz==2023.1
+pandas==1.5.3
+requests==2.28.2
+beautifulsoup4==4.11.1
+playsound==1.3.0
