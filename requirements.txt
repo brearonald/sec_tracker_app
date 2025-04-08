@@ -1,0 +1,7 @@
+streamlit
+yfinance
+pytz
+pandas
+requests
+beautifulsoup4
+playsound
